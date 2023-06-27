@@ -30,7 +30,7 @@ b         2023-06-01 01:00:03  2023-06-01 01:00:06           3
 h         2023-06-01 01:00:06  2023-06-01 01:00:10           4  
 i         2023-06-01 01:00:10  2023-06-01 01:00:15           5  
 ```
-
+![longest patht](./output/export.png "longest path")
 
 # Support for multiple inputs
 This script has support to read dbt manifest/runtime files
