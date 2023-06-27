@@ -1,6 +1,6 @@
-## Critical path analysis
+## SLA tracker based on longest paths
 
-This script lets the user visualise and extract the critical path of a task in the nightly DAG
+This script lets the user visualise and extract the longest path of a task in the nightly DAG
 
 
 ## How to
