@@ -1,6 +1,6 @@
 ## SLA tracker based on longest paths
 
-This script lets the user visualise and extract the longest path of a task in the nightly DAG
+This script lets the user visualise and extract the longest path of a task in a DAG
 
 
 ## How to
